@@ -1,0 +1,2 @@
+[napari.manifest]
+napari-autofill-contours = napari_autofill_contours:napari.yaml

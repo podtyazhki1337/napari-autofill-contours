@@ -1,0 +1,11 @@
+pyproject.toml
+setup.cfg
+napari_autofill_contours/__init__.py
+napari_autofill_contours/_widget.py
+napari_autofill_contours/napari.yaml
+napari_autofill_contours.egg-info/PKG-INFO
+napari_autofill_contours.egg-info/SOURCES.txt
+napari_autofill_contours.egg-info/dependency_links.txt
+napari_autofill_contours.egg-info/entry_points.txt
+napari_autofill_contours.egg-info/requires.txt
+napari_autofill_contours.egg-info/top_level.txt

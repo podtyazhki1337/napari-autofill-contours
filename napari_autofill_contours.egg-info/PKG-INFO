@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: napari-autofill-contours
+Version: 0.1.0
+Summary: Auto-fill closed RGB contours into Label instances for napari
+Author: You
+Requires-Python: >=3.9
+Requires-Dist: numpy
+Requires-Dist: scikit-image
+Requires-Dist: magicgui
+Requires-Dist: napari-plugin-engine>=0.2.0

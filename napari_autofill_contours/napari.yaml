@@ -1,0 +1,12 @@
+name: napari-autofill-contours
+display_name: AutoFillContours
+schema_version: 0.2.0
+
+contributions:
+  commands:
+    - id: napari-autofill-contours.autofill_widget
+      title: Auto-Fill Contours
+      python_name: napari_autofill_contours._widget:create_autofill_widget
+  widgets:
+    - command: napari-autofill-contours.autofill_widget
+      display_name: Auto-Fill Contours
