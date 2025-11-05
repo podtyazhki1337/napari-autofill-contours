@@ -2,15 +2,6 @@
 
 
 
-\[!\[License](https://img.shields.io/pypi/l/napari-autofill-contours.svg?color=green)](https://github.com/podtyazhki1337/napari-autofill-contours/raw/main/LICENSE)
-
-\[!\[PyPI](https://img.shields.io/pypi/v/napari-autofill-contours.svg?color=green)](https://pypi.org/project/napari-autofill-contours)
-
-\[!\[Python Version](https://img.shields.io/pypi/pyversions/napari-autofill-contours.svg?color=green)](https://python.org)
-
-\[!\[napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-autofill-contours)](https://napari-hub.org/plugins/napari-autofill-contours)
-
-
 
 A napari plugin for automatic filling of regions from contour masks.
 
@@ -170,21 +161,6 @@ pip install git+https://github.com/podtyazhki1337/napari-autofill-contours.git
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-
-
----
-
-
-
-\## License
-
-
-
-Distributed under the terms of the \[MIT] license.
-
-
-
----
 
 
 
